@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../System.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../Board.swift">
+   </FileRef>
+   <FileRef
       location = "self:TipNTop Snooker Parlour.xcodeproj">
    </FileRef>
 </Workspace>
